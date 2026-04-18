@@ -1,0 +1,127 @@
+{
+  "Version": 1,
+  "WorkspaceRootPath": "C:\\Users\\Aneliya\\Desktop\\BEA Regular Exam\\Exam-MovieCatalog\\",
+  "Documents": [
+    {
+      "AbsoluteMoniker": "D:0:0:{E7CE034F-7DB0-4CA3-84B8-0E58ED1A1818}|Exam-MovieCatalog\\Exam-MovieCatalog.csproj|c:\\users\\aneliya\\desktop\\bea regular exam\\exam-moviecatalog\\exam-moviecatalog\\exam_moviecatalogtests.cs||{A6C744A8-0E4A-4FC6-886A-064283054674}",
+      "RelativeMoniker": "D:0:0:{E7CE034F-7DB0-4CA3-84B8-0E58ED1A1818}|Exam-MovieCatalog\\Exam-MovieCatalog.csproj|solutionrelative:exam-moviecatalog\\exam_moviecatalogtests.cs||{A6C744A8-0E4A-4FC6-886A-064283054674}"
+    },
+    {
+      "AbsoluteMoniker": "D:0:0:{E7CE034F-7DB0-4CA3-84B8-0E58ED1A1818}|Exam-MovieCatalog\\Exam-MovieCatalog.csproj|c:\\users\\aneliya\\desktop\\bea regular exam\\exam-moviecatalog\\exam-moviecatalog\\dtos\\moviedto.cs||{A6C744A8-0E4A-4FC6-886A-064283054674}",
+      "RelativeMoniker": "D:0:0:{E7CE034F-7DB0-4CA3-84B8-0E58ED1A1818}|Exam-MovieCatalog\\Exam-MovieCatalog.csproj|solutionrelative:exam-moviecatalog\\dtos\\moviedto.cs||{A6C744A8-0E4A-4FC6-886A-064283054674}"
+    },
+    {
+      "AbsoluteMoniker": "D:0:0:{E7CE034F-7DB0-4CA3-84B8-0E58ED1A1818}|Exam-MovieCatalog\\Exam-MovieCatalog.csproj|c:\\users\\aneliya\\desktop\\bea regular exam\\exam-moviecatalog\\exam-moviecatalog\\dtos\\apiresponsedto.cs||{A6C744A8-0E4A-4FC6-886A-064283054674}",
+      "RelativeMoniker": "D:0:0:{E7CE034F-7DB0-4CA3-84B8-0E58ED1A1818}|Exam-MovieCatalog\\Exam-MovieCatalog.csproj|solutionrelative:exam-moviecatalog\\dtos\\apiresponsedto.cs||{A6C744A8-0E4A-4FC6-886A-064283054674}"
+    }
+  ],
+  "DocumentGroupContainers": [
+    {
+      "Orientation": 1,
+      "VerticalTabListWidth": 256,
+      "DocumentGroups": [
+        {
+          "DockedHeight": 111,
+          "SelectedChildIndex": -1,
+          "Children": [
+            {
+              "$type": "Bookmark",
+              "Name": "ST:0:0:{0174dea2-fdbe-4ef1-8f99-c0beae78880f}"
+            },
+            {
+              "$type": "Bookmark",
+              "Name": "ST:1:0:{e8b06f52-6d01-11d2-aa7d-00c04f990343}"
+            },
+            {
+              "$type": "Bookmark",
+              "Name": "ST:0:0:{1c4feeaa-4718-4aa9-859d-94ce25d182ba}"
+            }
+          ]
+        },
+        {
+          "DockedHeight": 436,
+          "SelectedChildIndex": 3,
+          "Children": [
+            {
+              "$type": "Bookmark",
+              "Name": "ST:0:0:{e1b7d1f8-9b3c-49b1-8f4f-bfc63a88835d}"
+            },
+            {
+              "$type": "Document",
+              "DocumentIndex": 1,
+              "Title": "MovieDTO.cs",
+              "DocumentMoniker": "C:\\Users\\Aneliya\\Desktop\\BEA Regular Exam\\Exam-MovieCatalog\\Exam-MovieCatalog\\DTOs\\MovieDTO.cs",
+              "RelativeDocumentMoniker": "Exam-MovieCatalog\\DTOs\\MovieDTO.cs",
+              "ToolTip": "C:\\Users\\Aneliya\\Desktop\\BEA Regular Exam\\Exam-MovieCatalog\\Exam-MovieCatalog\\DTOs\\MovieDTO.cs",
+              "RelativeToolTip": "Exam-MovieCatalog\\DTOs\\MovieDTO.cs",
+              "ViewState": "AgIAAAAAAAAAAAAAAAAAABMAAAABAAAAAAAAAA==",
+              "Icon": "ae27a6b0-e345-4288-96df-5eaf394ee369.000738|",
+              "WhenOpened": "2026-04-18T06:21:37.773Z",
+              "EditorCaption": ""
+            },
+            {
+              "$type": "Document",
+              "DocumentIndex": 2,
+              "Title": "ApiResponseDTO.cs",
+              "DocumentMoniker": "C:\\Users\\Aneliya\\Desktop\\BEA Regular Exam\\Exam-MovieCatalog\\Exam-MovieCatalog\\DTOs\\ApiResponseDTO.cs",
+              "RelativeDocumentMoniker": "Exam-MovieCatalog\\DTOs\\ApiResponseDTO.cs",
+              "ToolTip": "C:\\Users\\Aneliya\\Desktop\\BEA Regular Exam\\Exam-MovieCatalog\\Exam-MovieCatalog\\DTOs\\ApiResponseDTO.cs",
+              "RelativeToolTip": "Exam-MovieCatalog\\DTOs\\ApiResponseDTO.cs",
+              "ViewState": "AgIAAAAAAAAAAAAAAAAAAA8AAAAIAAAAAAAAAA==",
+              "Icon": "ae27a6b0-e345-4288-96df-5eaf394ee369.000738|",
+              "WhenOpened": "2026-04-18T06:20:52.854Z",
+              "EditorCaption": ""
+            },
+            {
+              "$type": "Document",
+              "DocumentIndex": 0,
+              "Title": "Exam_MovieCatalogTests.cs",
+              "DocumentMoniker": "C:\\Users\\Aneliya\\Desktop\\BEA Regular Exam\\Exam-MovieCatalog\\Exam-MovieCatalog\\Exam_MovieCatalogTests.cs",
+              "RelativeDocumentMoniker": "Exam-MovieCatalog\\Exam_MovieCatalogTests.cs",
+              "ToolTip": "C:\\Users\\Aneliya\\Desktop\\BEA Regular Exam\\Exam-MovieCatalog\\Exam-MovieCatalog\\Exam_MovieCatalogTests.cs",
+              "RelativeToolTip": "Exam-MovieCatalog\\Exam_MovieCatalogTests.cs",
+              "ViewState": "AgIAAAAAAAAAAAAAAAAAAMwAAAAOAAAAAAAAAA==",
+              "Icon": "ae27a6b0-e345-4288-96df-5eaf394ee369.000738|",
+              "WhenOpened": "2026-04-18T06:06:38.996Z",
+              "EditorCaption": ""
+            },
+            {
+              "$type": "Bookmark",
+              "Name": "ST:0:0:{3ae79031-e1bc-11d0-8f78-00a0c9110057}"
+            },
+            {
+              "$type": "Bookmark",
+              "Name": "ST:3:0:{d212f56b-c48a-434c-a121-1c5d80b59b9f}"
+            }
+          ]
+        },
+        {
+          "DockedHeight": 53,
+          "SelectedChildIndex": -1,
+          "Children": [
+            {
+              "$type": "Bookmark",
+              "Name": "ST:1:0:{d212f56b-c48a-434c-a121-1c5d80b59b9f}"
+            },
+            {
+              "$type": "Bookmark",
+              "Name": "ST:0:0:{aa2115a1-9712-457b-9047-dbb71ca2cdd2}"
+            },
+            {
+              "$type": "Bookmark",
+              "Name": "ST:2:0:{d212f56b-c48a-434c-a121-1c5d80b59b9f}"
+            },
+            {
+              "$type": "Bookmark",
+              "Name": "ST:0:0:{d78612c7-9962-4b83-95d9-268046dad23a}"
+            },
+            {
+              "$type": "Bookmark",
+              "Name": "ST:0:0:{34e76e81-ee4a-11d0-ae2e-00a0c90fffc3}"
+            }
+          ]
+        }
+      ]
+    }
+  ]
+}
